@@ -7,16 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## Acerca del Proyecto
 
+Este proyecto que se encuentra en construcción, tiene por objeto a fianzar las habilidades de su creador, quien concibe su disposición con la siguiente arquitectura dividida en el Back End con el lenguaje PHP y el FrameWork de Laravel para la construcción de una apiRest full con el módelo MVC que nos provee la herramienta Laravel y que posteriormente es consumida por cliente, por otro lado, contamos en el Front End con el Framework de Angular para el consumo de los servicios y de la interoperabilidad de las tecnologías 
 
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
 
 
